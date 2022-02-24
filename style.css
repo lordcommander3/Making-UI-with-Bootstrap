@@ -1,0 +1,20 @@
+.navbar{
+    background-color: #ff9999 !important; font-weight: bold;
+}
+.nav-link{
+    color: white !important;
+}
+.logo{
+    height: 40px; width: 120px;
+}
+.fa-shopping-cart{
+    color: black;
+    font-size: 30px !important;
+}
+.fa-user-circle{
+    color: black;
+    font-size: 28px !important;
+}
+.nav-item:hover{
+    text-decoration: underline;
+}
